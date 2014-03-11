@@ -8,7 +8,7 @@ The process is executable on Camunda BPM 7.0.0. Eclipse project files are also a
 
 ## Requirements
  - Maven
- - Camunda BPMN Tomcat 7.0.0-Final
+ - [Camunda BPMN Tomcat 7.0.0-Final](http://camunda.org/download/)
  
 ## Usage
  1. `git clone` this repository and execute `mvn install` to build a deployable war file for the application 
